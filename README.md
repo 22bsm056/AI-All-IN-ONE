@@ -63,6 +63,10 @@ By completing this course, you will:
 
 ## 🚀 How to Use This Repository
 
+### [09 - ML Practical](./rl_trading_tutorial.md)
+- Reinforcement Learning (RL): learning by interaction An intelligent agent interacts with an environment to achieve a goal through trial and feedback.
+
+- 
 1. **Sequential Learning**: Start from Module 01 and progress through each module
 2. **Topic-Specific**: Jump to specific topics of interest
 3. **Project-Based**: Complete hands-on projects in Module 07
